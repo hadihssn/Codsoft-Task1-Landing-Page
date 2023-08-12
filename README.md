@@ -1,9 +1,10 @@
 # Landing-Page
 This repo is part of my internship at Codsoft.
 
-Task 1 - Landing Page. This basic landing page has been made using HTML and CSS with a little touch of Bootstrap (utilizing its classes to make things easier).
+Task 1 - Landing Page <br>
+This basic landing page has been made using HTML and CSS with a little touch of Bootstrap (utilizing its classes to make things easier).
 
-Template I followed (not completely): https://99designs.com/profiles/malzdesign/designs/1370389
+Template I followed (not completely): https://99designs.com/profiles/malzdesign/designs/1370389 <br>
 🍃 Resources I used (including Youtube videos and web docs):
 1. CSS box shadow: https://www.w3schools.com/css/css3_shadows_box.asp
 2. Fancy border radius: https://9elements.github.io/fancy-border-radius/#50.50.50.50--466.466
